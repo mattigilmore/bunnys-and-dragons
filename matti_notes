@@ -1,5 +1,6 @@
 ac  34 326
-hp 40
+hp max 327
+hp 40 336
 states 54
 saves 72 npc # unsure if it matters now
 skills 96 npc
@@ -8,4 +9,4 @@ npcspelloptions 231 # spellcasting ability score
 auto-dmg-roll 291
 npc-name-in-rolls 299 330 # adds npc name to roll.
 tiebreaker 307 # I made it on by defualt
-roll npc init 315 #says d20 so need to be changing for systems rules probly by adding a dropdown input thing for down making the value the dice in settings
+roll npc init 315 330#says d20 so need to be changing for systems rules probly by adding a dropdown input thing for down making the value the dice in settings
