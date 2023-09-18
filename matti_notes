@@ -14,3 +14,33 @@ npc-name-in-rolls 299 330 # adds npc name to roll.
 tiebreaker 307 # I made it on by defualt
 roll npc init 315 330#says d20 so need to be changing for systems rules probly by adding a dropdown input thing for down making the value the dice in settings
 attack 620
+Acrobatics
+Alertness-wis
+Animal Handling
+Arcana
+Athletic
+Charisma
+Constitution
+Craftsmanship-int
+Deception
+Diplomacy-cha
+Driving-wis
+Endurance-con
+History
+Insight
+Intimidation
+Investigation
+Medicine
+Pathfinding-int
+Perception
+Performance
+Persuasion
+Religion
+Rope-str
+Script-cha
+Sleight of Hand
+Stealth
+Strength
+Survival
+Wisdom
+Readiness-wis
