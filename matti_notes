@@ -1,10 +1,12 @@
+note to reader if u the line put  may not be the line look below. and its not every input just where they start
 ac  34 326
 hp max 327
 hp 40 336
-states 54
-saves 72 npc # unsure if it matters now
-skills 96 npc
-skill type=hidden 175
+hp npc rolling formula 338
+stats 54 347
+saves 72 397 npc # unsure if it matters now
+skills 96 432npc
+skill type=hidden 175 432
 npcspelloptions 231 # spellcasting ability score
 auto-dmg-roll 291
 npc-name-in-rolls 299 330 # adds npc name to roll.
