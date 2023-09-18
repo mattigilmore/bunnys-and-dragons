@@ -8,4 +8,4 @@ npcspelloptions 231 # spellcasting ability score
 auto-dmg-roll 291
 npc-name-in-rolls 299 # add npc name to roll.
 tiebreaker 307 # I made it on by defualt
-roll npc init #says d20 so need to be changing for systems rules probly by adding a dropdown input thing for down making the value the dice in settings
+roll npc init 315#says d20 so need to be changing for systems rules probly by adding a dropdown input thing for down making the value the dice in settings
