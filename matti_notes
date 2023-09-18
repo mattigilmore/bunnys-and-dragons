@@ -5,4 +5,6 @@ saves 72 npc # unsure if it matters now
 skills 96 npc
 skill type=hidden 175
 npcspelloptions 231 # spellcasting ability score
-
+auto-dmg-roll 291
+npc-name-in-rolls 299 # add npc name to roll.
+tiebreaker 307 # I made it on by defualt
