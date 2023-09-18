@@ -1,0 +1,8 @@
+ac main page line 34
+hp 40
+states 54
+saves 72 npc # unsure if it matters now
+skills 96 npc
+skill type=hidden 175
+npcspelloptions 231 # spellcasting ability score
+
